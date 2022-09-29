@@ -1,0 +1,23 @@
+{
+  "name": "desafios_qa",
+  "version": "1.0.0",
+  "description": "Este repositório foi criado para alguns desafios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maelbandeira/Desafios_QA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maelbandeira/Desafios_QA/issues"
+  },
+  "homepage": "https://github.com/maelbandeira/Desafios_QA#readme",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
+}
